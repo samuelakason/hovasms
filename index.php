@@ -1,0 +1,479 @@
+<!DOCTYPE html><html lang="en"><head>
+        
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link rel="icon" href="favicon.ico" type="image/x-icon">
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+        <title>HovaSMS - Nigeria's Leading BulkSMS Website </title>
+        <meta name="description" content="Send Bulksms in Nigeria at the cheapest rate. BulkSMS Reseller plan and BulkSMS gateway API available. Deliver SMS to DND Numbers">
+        <meta name="keywords" content="BulkSMS in Nigeria, Cheap BulkSMS, Send SMS in Nigeria, Send BulkSMS,  BulkSMS Gateway API, Bulk SMS Reseller">
+
+        <!-- Icon css link -->
+        <link href="css/font-awesome.min.css" rel="stylesheet">
+        <link href="css/flaticon.css" rel="stylesheet">
+        <!-- Bootstrap -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        
+        <!-- Rev slider css -->
+        <link href="css/settings.css" rel="stylesheet">
+        <link href="css/layers.css" rel="stylesheet">
+        <link href="css/navigation.css" rel="stylesheet">
+        
+        <!-- Extra plugin css -->
+        <link href="css/owl.carousel.min.css" rel="stylesheet">
+        <link href="css/animate.css" rel="stylesheet">
+        <link href="css/nice-select.css" rel="stylesheet">
+        
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/responsive.css" rel="stylesheet">
+        </head>
+    <body>
+        
+        <!--================Header Menu Area =================-->
+        <header class="main_menu_area">
+            <div class="main_menu_inner">
+                <div class="container">
+                    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                        <div class="navbar-brand">
+                            <a href=""><img src="images/BlueLong.png" alt=""></a>
+                        </div>
+                        <div class="navbar-toggler" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <div class="my_toggle_menu">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </div>
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                            <ul class="navbar-nav mr-auto" style="display: flex; align-items: center; margin-left: auto;">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://HovaSMS.com/pricing">Pricing</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://HovaSMS.com/payment">Payment</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://HovaSMS.com/api">API</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://HovaSMS.com/dnd">DND</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://HovaSMS.com/reseller">Reseller</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://HovaSMS.com/faqs">FAQs</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://HovaSMS.com/contact">Contact Us</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="../app/login">Login</a>
+                                </li>
+                                <li class="nav-item" style="display: inline-block; position: relative; ">
+                                    <!-- <li class="nav-item" style="display: inline-block; position: relative; background-color: #222222;"> -->
+                                    <div class="dropdown">
+                                        <button style="color: #ffffff;" class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Switch Service
+                                        <span class="caret"></span></button>
+                                        <ul class="dropdown-menu" style="padding: 0; position: absolute; left: 0; top: 100%; min-width: 100%; text-align: left; list-style: none; background-color: #222222; border: 1px solid rgba(0, 0, 0, 0.15); border-radius: 4px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);">
+                                            <li><a href="#" style="color:#ffffff; padding: 5px 20px; line-height: 1.2;">Hovapay</a></li>
+                                            <li><a href="#" style="color:#ffffff; padding: 5px 20px; line-height: 1.2;">Hovatravel</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                            
+                            
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <!--================End Footer Area =================-->
+        
+       <!--================Slider Area =================-->
+       <section class="home_agency_slider_area">
+        <div id="home_slider" class="rev_slider" data-version="5.3.1.6">
+            <ul>
+                <li data-index="rs-1587" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="templates/arise/img/home-slider/slider-1.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Creative" data-param1="01" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                <!-- MAIN IMAGE -->
+                <img src="templates/frontend_arise//sitefiles/sliders/banner1.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="5" class="rev-slidebg" data-no-retina>
+                    <!-- LAYER NR. 1 -->
+                    <div class="slider_text_box">
+                        <div class="tp-caption tp-resizeme first_text" 
+                        data-x="['left','left','left','left','left','center']" 
+                        data-hoffset="['0','80','80','0','15','0']" 
+                        data-y="['top','top','top','top']" 
+                        data-voffset="['290','290','290','290','320','180']" 
+                        data-fontsize="['70','70','70','70','50','30']"
+                        data-lineheight="['80','80','80','80','60','40']"
+                        data-width="['none','none','none','none','none']"
+                        data-height="none"
+                        data-whitespace="nowrap"
+                        data-type="text" 
+                        data-responsive_offset="on" 
+                        data-frames='[{"delay":"+290","speed":2000,"frame":"0","from":"y:50px;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+                        data-textAlign="['left','left','left','left','left','center']">Leading <span> BulkSMS</span><br/>Platform<span>.</span></div>                            
+                        <div class="tp-caption tp-resizeme secand_text" 
+                            data-x="['left','left','left','left','left','center']" 
+                            data-hoffset="['0','80','80','0','15','0']" 
+                            data-y="['top','top','top','top']" 
+                            data-voffset="['475','475',475','475','475','270']"   
+                            data-fontsize="['22','22','22','22','16','16']"
+                            data-lineheight="['38','38','38','38','28','28']"
+                            data-width="['none','none','none','none','none','300']"
+                            data-height="none"
+                            data-whitespace="['nowrap','nowrap','nowrap','nowrap','nowrap','normal']"
+                            data-type="text" 
+                            data-transform_idle="o:1;"
+                            data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
+                            data-textAlign="['left','left','left','left','left','center']">Send transactional or promotional Messages through HovaSMS and<br /> achieve marketing results...
+                        </div>                        
+                        <div class="tp-caption tp-resizeme" 
+                            data-x="['left','left','left','left','left','center']" 
+                            data-hoffset="['0','80','80','0','15','0']" 
+                            data-y="['top','top','top','top']" 
+                            data-voffset="['580','580','580','580','580','380']" 
+                            data-width="['none','none','none','none','none']"
+                            data-height="none"
+                            data-whitespace="nowrap"
+                            data-type="text" 
+                            data-responsive_offset="on" 
+                            data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
+                            data-textAlign="['left','left','left','left','left','center']">
+                            <a class="slider_btn" href="../app/register.php">Register Now</a>
+                        </div>
+                    </div>
+                </li>
+                <li data-index="rs-1588" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="templates/arise/img/home-slider/slider-2.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Creative" data-param1="01" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                <!-- MAIN IMAGE -->
+                <img src="templates/frontend_arise//sitefiles/sliders/banner2.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="5" class="rev-slidebg" data-no-retina>
+                <!-- LAYERS -->
+                    <!-- LAYERS -->
+
+                    <!-- LAYER NR. 1 -->
+                    <div class="slider_text_box">
+                        <div class="tp-caption tp-resizeme first_text" 
+                        data-x="['left','left','left','left','left','center']" 
+                        data-hoffset="['0','80','80','0','15','0']" 
+                        data-y="['top','top','top','top']" 
+                        data-voffset="['290','290','290','290','320','180']" 
+                        data-fontsize="['70','70','70','70','50','30']"
+                        data-lineheight="['80','80','80','80','60','40']"
+                        data-width="['none','none','none','none','none']"
+                        data-height="none"
+                        data-whitespace="nowrap"
+                        data-type="text" 
+                        data-responsive_offset="on" 
+                        data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
+                        data-textAlign="['left','left','left','left','left','center']">Delivery Analytics <br /><span>Dashboard</span>.</div>
+                        
+                        <div class="tp-caption tp-resizeme secand_text" 
+                            data-x="['left','left','left','left','left','center']" 
+                            data-hoffset="['0','80','80','0','15','0']" 
+                            data-y="['top','top','top','top']" 
+                            data-voffset="['475','475',475','475','475','270']"   
+                            data-fontsize="['22','22','22','22','16','16']"
+                            data-lineheight="['38','38','38','38','28','28']"
+                            data-width="['none','none','none','none','none','300']"
+                            data-height="none"
+                            data-whitespace="['nowrap','nowrap','nowrap','nowrap','nowrap','normal']"
+                            data-type="text" 
+                            data-responsive_offset="on"
+                            data-transform_idle="o:1;"
+                            data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
+                            data-textAlign="['left','left','left','left','left','center']">We provide tools and resources to monitor and improve <br /> message delivery...
+                        </div>
+                        
+                        <div class="tp-caption tp-resizeme" 
+                            data-x="['left','left','left','left','left','center']" 
+                            data-hoffset="['0','80','80','0','15','0']" 
+                            data-y="['top','top','top','top']" 
+                            data-voffset="['580','580','580','580','580','380']" 
+                            data-width="['none','none','none','none','none']"
+                            data-type="text" 
+                            data-responsive_offset="on" 
+                            data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
+                            data-textAlign="['left','left','left','left','left','center']">
+                            <a class="slider_btn" href="/register">Register Now</a>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <!--================End Slider Area =================-->
+        
+        <!--================Small Feature Area =================-->
+        <section class="small_feature_area p_100">
+            <div class="container">
+                <div class="row small_feature_inner">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="media">
+                            <div class="d-flex">
+                                <h3>01</h3>
+                            </div>
+                            <div class="media-body">
+                                <p>Create An Account<br> on HovaSMS.com</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="media">
+                            <div class="d-flex">
+                                <h3>02</h3>
+                            </div>
+                            <div class="media-body">
+                                <p>Fund your account, through <br>Bank or Online payment </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="media">
+                            <div class="d-flex">
+                                <h3>03</h3>
+                            </div>
+                            <div class="media-body">
+                                <p>Start sending SMS <br> Immediately.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--================End Small Feature Area =================-->
+        
+        <!--================Choose Bitcoin Area =================-->
+        <section class="choose_bitcoin_area p_100">
+            <div class="container">
+                <div class="main_title">
+                    <h2>Why Choose HovaSMS</h2>
+                    <p>We are the leading BulkSMS service provider in Nigeria, delivering SMS since 2010. With HovaSMS, your messages are delivered instantly.</p>
+                </div>
+                <div class="row choose_bit_inner">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="choose_botcoin_item">
+                            <i class="fa fa-flash"></i>
+                            <a href="#"><h4>Super Fast Delivery</h4></a>
+                            <p>You are guaranteed instant delivery of your messages irrespective of the quantity.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="choose_botcoin_item">
+                            <i class="fa fa-globe"></i>
+                            <a href="#"><h4>DND Management</h4></a>
+                            <p>No more undelivered messages due to DND restrictions. You request a refund or send through our DND route.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="choose_botcoin_item">
+                            <i class="fa fa-list"></i>
+                            <a href="#"><h4>Delivery Report & Analytics</h4></a>
+                            <p>Get delivery report for every message sent. Reports are updated in real time.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="choose_botcoin_item">
+                            <i class="fa fa-credit-card"></i>
+                            <a href="#"><h4>SMS @ Affordable Rates</h4></a>
+                            <p>We offer the lowest rates without compromising on quality. We are able to do this due to the large number of messages we send.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="choose_botcoin_item">
+                            <i class="fa fa-code"></i>
+                            <a href="#"><h4>Developer API</h4></a>
+                            <p>Integrate our roubust API on your Application or BulkSMS Website.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="choose_botcoin_item">
+                            <i class="fa fa-headphones"></i>
+                            <a href="#"><h4>Premium Support</h4></a>
+                            <p>At HovaSMS, our experienced and courteous team are available to offer you support through Livechat, Phone and Email.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--================End Choose Bitcoin Area =================-->
+
+        <!--================Counter Area Area =================-->
+        <section class="counter_area p_100">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter_item">
+                            <h3 class>600M+</h3>
+                            <p>Messages Delivered Since Inception</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter_item">
+                            <h3 class="counter">8</h3>
+                            <p>Years Industry Experience</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter_item">
+                            <h3 class="counter">400</h3>
+                            <p>BulkSMS Reseller Websites Built</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter_item">
+                            <h3 class="counter">29000</h3>
+                            <p>Customers Trust HovaSMS</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--================End Counter Area Area =================-->
+
+        <!--================Trending Area Area =================-->
+        <section style="margin-bottom: 100px;" class="own_trending_area pt-5">
+            <div class="container">
+                <div class="main_title">
+                    <h2 style="font-family: Roboto;font-style: normal;font-weight: 500;font-size: 40px;line-height: 47px;color: #173D52;">More Reasons to choose <span style="color:#0d3d6e;">HovaSMS</span></h2>
+                    <p style="font-family: Roboto;font-style: normal;font-weight: 300;font-size: 20px;line-height: 23px;text-align: center;color: #173D52;">Beyond offering your the best BulkSMS platform, we offer tools and resources to ensure you have a successful messaging campaign.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 d-flex justify-content-center align-items-center flex-wrap">
+                        <div class="reasons" style="margin-bottom: 20px; margin-right: 20px; text-align: center; background-color: #ffffff; padding: 20px; border-radius: 20px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+                            <img src="images/reason1.png" alt="Reason 1"><br>
+                            <span style="font-weight: bold;">Need a BulkSMS Reseller Website?</span>
+                            <p>Sure, we can create a BulkSMS website <br> similar to HovaSMS for you.
+                        </div>
+                        <div class="reasons" style="margin-bottom: 20px; margin-right: 20px; text-align: center; background-color: #ffffff; padding: 20px; border-radius: 20px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+                            <img src="images/reason3.png" alt="Reason 3"><br>
+                            <span style="font-weight: bold;">Phone Book Management</span>
+                            <p>Easily manage your phonebook and <br> forget about copying recipients list every time.</p>
+                        </div>
+                        <div class="reasons" style="margin-bottom: 20px; text-align: center; background-color: #ffffff; padding: 20px; border-radius: 20px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+                            <img src="images/reason2.png" alt="Reason 2"><br>
+                            <span style="font-weight: bold;">Customized Sender ID</span>
+                            <p>Send messages with your own sender ID <br> and get them delivered instantly.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 d-flex justify-content-center align-items-center flex-wrap">
+                        <div class="reasons" style="margin-bottom: 20px; margin-right: 20px; text-align: center; background-color: #ffffff; padding: 20px; border-radius: 20px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+                            <img src="images/reason4.png" alt="Reason 4"><br>
+                            <span style="font-weight: bold;">Duplicate Number Removal</span>
+                            <p>Our system will remove duplicate numbers <br> from your recipient list to prevent wastage.</p>
+                        </div>
+                        <div class="reasons" style="margin-bottom: 20px; margin-right: 20px; text-align: center; background-color: #ffffff; padding: 20px; border-radius: 20px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+                            <img src="images/reason5.png" alt="Reason 4"><br>
+                            <span style="font-weight: bold;">Message Scheduling</span>
+                            <p>Easily schedule messages for delivery <br> to a later date and time.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </section>
+        
+        <!--================Footer Area =================-->
+        <footer class="footer_area">
+            <div class="footer_widgets_area p_100">
+                <div class="container">
+                    <div class="row">
+                     <div class="col-lg-3 col-sm-6">
+                            <aside class="f_widget resource_widget">
+                                <div class="f_title">
+                                    <h3>RESOURCES</h3>
+                                </div>
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>How to Send BulkSMS</a></li>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>How to make Payment</a></li>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>DND Explained</a></li>
+                                    <li><a href="/blog"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Blog</a></li>
+                                </ul>
+                            </aside>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <aside class="f_widget resource_widget">
+                                <div class="f_title">
+                                    <h3>Use HovaSMS</h3>
+                                </div>
+                                <ul>
+                                    <li><a href="/reseller"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Resellers</a></li>
+                                    <li><a href="/api"><i class="fa fa-angle-double-right" aria-hidden="true"></i>BulkSMS Gateway API</a></li>
+                                    <li><a href="/reseller"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Buy SMS</a></li>
+                                    <li><a href="/register"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Register</a></li>
+                                </ul>
+                            </aside>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <aside class="f_widget resource_widget support_widget">
+                                <div class="f_title">
+                                    <h3>SUPPORT</h3>
+                                </div>
+                                <ul>
+                                    <li><a href><i class aria-hidden="true"></i>07068832575
+                                    <i class aria-hidden="true"></i>info@HovaSMS.com</a></li>
+                                    <li><a href="/faqs"><i class="fa fa-angle-double-right" aria-hidden="true"></i>FAQs</a></li>
+                                    <li><a href="/contact"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Contact us</a></li>
+                                    <li><a href="/contact"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Office Address</a></li>
+                                </ul>
+                            </aside>
+                        </div>
+                        <div class="col-lg-2 col-sm-6">
+                            <aside class="f_widget resource_widget support_widget">
+                                <div class="f_title">
+                                    <h3>Company</h3>
+                                </div>
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>About Us</a></li>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Terms of Usage</a></li>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Contact Us</a></li>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Our Project</a></li>
+                                </ul>
+                            </aside>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer_copyright">
+                <h5>© 2018 <a href="#">HovaSMS.com</a>  All Rights Reserved.</h5>
+            </div>
+        </footer>
+        <!--================End Footer Area =================-->
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="js/jquery-3.2.1.min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <!-- Rev slider js -->
+        <script src="js/jquery.themepunch.tools.min.js"></script>
+        <script src="js/jquery.themepunch.revolution.min.js"></script>
+        <script src="js/revolution.extension.actions.min.js"></script>
+        <script src="js/revolution.extension.video.min.js"></script>
+        <script src="js/revolution.extension.slideanims.min.js"></script>
+        <script src="js/revolution.extension.layeranimation.min.js"></script>
+        <script src="js/revolution.extension.navigation.min.js"></script>
+        <script src="js/revolution.extension.slideanims.min.js"></script>
+        <!-- Extra plugin css -->
+        <script src="js/jquery.waypoints.min.js"></script>
+        <script src="js/jquery.counterup.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+        <script src="js/wow.min.js"></script>
+        <script src="js/parallax.min.js"></script>
+        <script src="js/jquery.waypoints.min.js"></script>
+        <script src="js/jquery.counterup.min.js"></script> 
+        <script src="js/apear.js"></script>
+        <script src="js/countto.js"></script>
+        <script src="js/jquery.nice-select.min.js"></script>
+                
+        <script src="js/theme.js"></script>
+
+
+    
+</body></html>
